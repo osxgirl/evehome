@@ -1,0 +1,26 @@
+Arguments: 
+  /usr/local/Cellar/node/17.0.1/bin/node /usr/local/Cellar/yarn/1.22.10/libexec/bin/yarn.js remove cra-template
+
+PATH: 
+  /Users/heather/Development/code/evehome/node_modules/.bin:/Users/heather/Development/code/node_modules/.bin:/Users/heather/Development/node_modules/.bin:/Users/heather/node_modules/.bin:/Users/node_modules/.bin:/node_modules/.bin:/usr/local/lib/node_modules/npm/node_modules/@npmcli/run-script/lib/node-gyp-bin:/usr/local/bin:/Users/heather/.rvm/gems/ruby-2.6.1/bin:/Users/heather/.rvm/gems/ruby-2.6.1@global/bin:/Users/heather/.rvm/rubies/ruby-2.6.1/bin:/Library/Frameworks/Python.framework/Versions/3.10/bin:/Users/heather/.local/share/solana/install/active_release/bin:/Library/Frameworks/Python.framework/Versions/3.8/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/share/dotnet:~/.dotnet/tools:/Library/Apple/usr/bin:/Library/Frameworks/Mono.framework/Versions/Current/Commands:/Users/heather/.cargo/bin:/Users/heather/.rvm/bin
+
+Yarn version: 
+  1.22.10
+
+Node version: 
+  17.0.1
+
+Platform: 
+  darwin x64
+
+Trace: 
+  Error: ENOENT: no such file or directory, scandir '/Users/heather/Development/code/evehome/evehome/node_modules/core-js-pure'
+
+npm manifest: 
+  No manifest
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
